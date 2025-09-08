@@ -1,2 +1,20 @@
+# Compilados de Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+
+# Archivos de usuario
+*.suo
+*.user
+*.userprefs
+*.sln
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Archivos de sistema
 .DS_Store
-./Saved
+Thumbs.db
